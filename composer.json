@@ -1,0 +1,19 @@
+{
+  "name": "fire1/web-socket",
+  "description": "PHP & JS library for web socket ",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Angel Zaprianov",
+      "email": "me@fire1.eu"
+    },
+    {
+      "name": "Sann-Remy Chea",
+      "email": "http://srchea.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
